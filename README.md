@@ -31,10 +31,10 @@ tic-tac-toe/
 ├── script.js # Game functionality
 └── README.md # Project description
 
+![Screenshot (201)](https://github.com/user-attachments/assets/9ff4aa65-784a-4b19-8ec8-b89e51283d97)
 
-![Screenshot (199)](https://github.com/user-attachments/assets/9130c60b-d1d0-4321-874c-d188512cc2a8)
+![Screenshot (202)](https://github.com/user-attachments/assets/d32e36b6-4079-4113-8684-d383e957cc14)
 
-![Screenshot (201)](https://github.com/user-attachments/assets/6aedb654-2e9b-4d64-a6a9-bbfe585d0471)
 
 
 ---
